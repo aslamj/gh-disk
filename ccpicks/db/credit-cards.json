@@ -1,216 +1,269 @@
-[
-  { 
-    "name": "Chase Freedom® Visa Card", 
-    "type": "Visa",
-    "merchant": "Chase",
-    "bank": "Chase",
-    "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_card.png",
-    "rewards": {
-      "url": "https://creditcards.chase.com/freedom/calendar",
-      "offers": [
-        {
-          "percentage": 5,
-          "maximum": {
-            "amount": 1500,
-            "months": 3
+{
+  "lastUpdated": "02/25/2017 GMT",
+  "creditCards": [
+    { 
+      "name": "Chase Freedom® Visa Card", 
+      "type": "Visa",
+      "merchant": "Chase",
+      "bank": "Chase",
+      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_card.png",
+      "rewards": {
+        "url": "https://creditcards.chase.com/freedom/calendar",
+        "offers": [
+          {
+            "percentage": 5,
+            "maximum": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "01/01/2017 GMT",
+            "end": "04/01/2017 GMT",
+            "includes": [
+              "gas station",
+              "local commuter transportation"
+            ],
+            "excludes": [
+              "parking",
+              "toll",
+              "amtrack"
+            ],
+            "activate": {
+              "start": "12/15/2016 GMT",
+              "end": "03/15/2017 GMT"
+            }
           },
-          "start": "01/01/2017 GMT",
-          "end": "04/01/2017 GMT",
-          "includes": [
-            "gas station",
-            "local commuter transportation"
-          ],
-          "excludes": [
-            "parking",
-            "toll",
-            "amtrack"
-          ],
-          "activate": {
-            "start": "12/15/2016 GMT",
-            "end": "03/15/2017 GMT"
+          {
+            "percentage": 5,
+            "maximum": {
+              "amount": 7000,
+              "months": 12
+            },
+            "start": "04/01/2017 GMT",
+            "end": "07/01/2017 GMT",
+            "includes": [
+              "grocery store"
+            ],
+            "excludes": [
+              "walmart",
+              "target"
+            ],
+            "activate": {
+              "start": "03/15/2017 GMT",
+              "end": "06/15/2017 GMT"
+            }
+          },
+          {
+            "percentage": 1
           }
-        },
-        {
-          "percentage": 5,
-          "maximum": {
-            "amount": 7000,
-            "months": 12
+        ]
+      }
+    },
+    { 
+      "name": "Costco Anywhere Visa Card",
+      "type": "Visa",
+      "merchant": "Costco",
+      "bank": "Citi",
+      "image": "https://www.citi.com/CRD/images/card_no_reflection/Citi-costco-anywhere-visa-credit-card.jpg",
+      "rewards": {
+        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card",
+        "offers": [
+          {
+            "percentage": 4,
+            "maximum": {
+              "amount": 7000,
+              "months": 12
+            },
+            "includes": [
+              "gas station"
+            ]
           },
-          "start": "04/01/2017 GMT",
-          "end": "07/01/2017 GMT",
-          "includes": [
-            "grocery store"
-          ],
-          "excludes": [
-            "walmart",
-            "target"
-          ],
-          "activate": {
-            "start": "03/15/2017 GMT",
-            "end": "06/15/2017 GMT"
+          {
+            "percentage": 3,
+            "includes": [
+              "restaurant",
+              "eligible travel purchases worldwide"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "costco"
+            ]
+          },
+          {
+            "percentage": 1
           }
-        },
-        {
-          "percentage": 1
-        }
-      ]
-    }
-  },
-  { 
-    "name": "Costco Anywhere Visa Card",
-    "type": "Visa",
-    "merchant": "Costco",
-    "bank": "Citi",
-    "image": "https://www.citi.com/CRD/images/card_no_reflection/Citi-costco-anywhere-visa-credit-card.jpg",
-    "rewards": {
-      "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card",
-      "offers": [
-        {
-          "percentage": 4,
-          "maximum": {
-            "amount": 7000,
-            "months": 12
+        ]
+      }
+    },
+    { 
+      "name": "Discover Card",
+      "type": "discover",
+      "merchant": "Discover",
+      "bank": "Discover",
+      "image": "https://www.discover.com/credit-cards/images/cash/Discover-it-cash-credit-card-blue.png",
+      "rewards": {
+        "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
+        "offers": [
+          {
+            "percentage": 5,
+            "maximum": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "01/01/2017 GMT",
+            "end": "04/01/2017 GMT",
+            "includes": [
+              "gas station",
+              "ground transportation",
+              "wholesale club"
+            ],
+            "excludes": [
+              "parking",
+              "toll",
+              "amtrack"
+            ]
           },
-          "includes": [
-            "gas station"
-          ]
-        },
-        {
-          "percentage": 3,
-          "includes": [
-            "restaurant",
-            "eligible travel purchases worldwide"
-          ]
-        },
-        {
-          "percentage": 2,
-          "includes": [
-            "costco"
-          ]
-        },
-        {
-          "percentage": 1
-        }
-      ]
-    }
-  },
-  { 
-    "name": "Discover Card",
-    "type": "discover",
-    "merchant": "Discover",
-    "bank": "Discover",
-    "image": "https://www.discover.com/credit-cards/images/cash/Discover-it-cash-credit-card-blue.png",
-    "rewards": {
-      "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
-      "offers": [
-        {
-          "percentage": 5,
-          "maximum": {
-            "amount": 1500,
-            "months": 3
+          {
+            "percentage": 5,
+            "maximum": {
+              "amount": 7000,
+              "months": 12
+            },
+            "start": "04/01/2017 GMT",
+            "end": "07/01/2017 GMT",
+            "includes": [
+              "home improvement store",
+              "wholesale club"
+            ]
           },
-          "start": "01/01/2017 GMT",
-          "end": "04/01/2017 GMT",
-          "includes": [
-            "gas station",
-            "ground transportation",
-            "wholesale club"
-          ],
-          "excludes": [
-            "parking",
-            "toll",
-            "amtrack"
-          ]
-        },
-        {
-          "percentage": 5,
-          "maximum": {
-            "amount": 7000,
-            "months": 12
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    { 
+      "name": "Amazon Prime Rewards Visa Signature Card",
+      "type": "Visa",
+      "merchant": "Amazon",
+      "bank": "Chase",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41VgxfCVJOL.jpg",
+      "rewards": {
+        "url": "https://www.amazon.com/Amazon-Prime-Rewards-Visa-Signature/dp/BT00LN946S/ref=sr_1_1?ie=UTF8&qid=1487585281&sr=8-1&keywords=amazon+prime+credit+card",
+        "offers": [
+          {
+            "percentage": 5,
+            "includes": [
+              "amazon"
+            ]
           },
-          "start": "04/01/2017 GMT",
-          "end": "07/01/2017 GMT",
-          "includes": [
-            "home improvement store",
-            "wholesale club"
-          ]
-        },
-        {
-          "percentage": 1
-        }
-      ]
+          {
+            "percentage": 2,
+            "includes": [
+              "restaurant",
+              "gas station",
+              "drugstore"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    { 
+      "name": "Fidelity® Rewards Visa Signature® Card",
+      "type": "Visa",
+      "merchant": "Fidelity",
+      "bank": "Fidelity",
+      "image": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/fidelity_rewards_cc.jpg",
+      "rewards": {
+        "url": "https://www.fidelity.com/cash-management/visa-signature-card",
+        "offers": [
+          {
+            "percentage": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blue Cash Everyday® Card",
+      "type": "american express",
+      "merchant": "American Express",
+      "bank": "American Express",
+      "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png",
+      "rewards": {
+        "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/25330?linknav=US-Acq-CCSG-Cardmember-CategoryCashBackCards-BCE-ViewCardDetails-Top-Pos1",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "supermarket"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "gas station",
+              "department store"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Orbitz Rewards Visa® Card",
+      "type": "visa",
+      "merchant": "Orbitz",
+      "bank": "Comenity",
+      "image": "https://a.travel-assets.com/flex/flexmanager/images/2016/07/15/ORB_VisaSignatureCard_4-3_large.png",
+      "annual-fee": 0,
+      "foreign-transaction-fee": 0,
+      "rewards": {
+        "url": "https://www.orbitz.com/rewards/visacard",
+        "type": "Orbucks",
+        "offers": [
+          {
+            "percentage": 10,
+            "includes": [
+              "hotels "
+            ],
+            "online": true,
+            "using": "www.orbitz.com@mobile"
+          },
+          {
+            "percentage": 8,
+            "includes": [
+              "hotel"
+            ],
+            "online": true,
+            "using": "www.orbitz.com@desktop"
+          },
+          {
+            "percentage": 5,
+            "includes": [
+              "restaurant"
+            ],
+            "online": true,
+            "using": "www.orbitzrewardsdining.com"
+          },
+          {
+            "percentage": 6,
+            "includes": [
+              "flight"
+            ],
+            "online": true,
+            "using": "www.orbitz.com"
+          },
+          {
+            "percentage": 2
+          }
+        ]
+      }
     }
-  },
-  { 
-    "name": "Amazon Prime Rewards Visa Signature Card",
-    "type": "Visa",
-    "merchant": "Amazon",
-    "bank": "Chase",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/41VgxfCVJOL.jpg",
-    "rewards": {
-      "url": "https://www.amazon.com/Amazon-Prime-Rewards-Visa-Signature/dp/BT00LN946S/ref=sr_1_1?ie=UTF8&qid=1487585281&sr=8-1&keywords=amazon+prime+credit+card",
-      "offers": [
-        {
-          "percentage": 5,
-          "includes": [
-            "amazon"
-          ]
-        },
-        {
-          "percentage": 2,
-          "includes": [
-            "restaurant",
-            "gas station",
-            "drugstore"
-          ]
-        },
-        {
-          "percentage": 1
-        }
-      ]
-    }
-  },
-  { 
-    "name": "Fidelity® Rewards Visa Signature® Card",
-    "type": "Visa",
-    "merchant": "Fidelity",
-    "bank": "Fidelity",
-    "image": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/fidelity_rewards_cc.jpg",
-    "rewards": {
-      "url": "https://www.fidelity.com/cash-management/visa-signature-card",
-      "offers": [
-        {
-          "percentage": 2
-        }
-      ]
-    }
-  },
-  {
-    "name": "Blue Cash Everyday® Card",
-    "type": "american express",
-    "merchant": "American Express",
-    "bank": "American Express",
-    "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png",
-    "rewards": {
-      "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/25330?linknav=US-Acq-CCSG-Cardmember-CategoryCashBackCards-BCE-ViewCardDetails-Top-Pos1",
-      "offers": [
-        {
-          "percentage": 3,
-          "includes": [
-            "supermarket"
-          ]
-        },
-        {
-          "percentage": 2,
-          "includes": [
-            "gas station",
-            "department store"
-          ]
-        },
-        {
-          "percentage": 1
-        }
-      ]
-    }
-  }
-]
+  ]
+}
