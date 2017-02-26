@@ -264,6 +264,37 @@
           }
         ]
       }
+    },
+    {
+      "name": "Bank of America Cash Rewards™ Credit Card",
+      "type": "visa",
+      "merchant": "Bank of America",
+      "bank": "Bank of America",
+      "image": "https://consumer.bankofamerica.com/us/BRR00/images/8azc_cash_card.png",
+      "annual-fee": 0,
+      "foreign-transaction-fee": "3%",
+      "rewards": {
+        "url": "https://consumer.bankofamerica.com/USCCapp/Ctl/entry?sc=VACNYS&cm_mmc=Cons-CC-_-Google-PS-_-Cash%20Rewards%20Card-_-Brand%20Visa%20Exact%20SL&gclid=Cj0KEQiAlsrFBRCAxcCB54XElLEBEiQA_ei0DEdMTvFJdoDUruIDV4g-22-FAd6yaqGce9zetKmH2qoaAn8y8P8HAQ#b",
+        "type": "Cash Back",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "gas station"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "grocery",
+              "wholesale"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
     }
   ]
 }
