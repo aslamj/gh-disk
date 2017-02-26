@@ -1,7 +1,8 @@
 {
   "lastUpdated": "02/25/2017 GMT",
   "creditCards": [
-    { 
+    {
+      "ccid": 1, 
       "name": "Chase Freedom® Visa Card", 
       "type": "Visa",
       "merchant": "Chase",
@@ -59,6 +60,7 @@
       }
     },
     { 
+      "ccid": 2, 
       "name": "Costco Anywhere Visa Card",
       "type": "Visa",
       "merchant": "Costco",
@@ -97,6 +99,7 @@
       }
     },
     { 
+      "ccid": 3, 
       "name": "Discover Card",
       "type": "discover",
       "merchant": "Discover",
@@ -144,6 +147,7 @@
       }
     },
     { 
+      "ccid": 4, 
       "name": "Amazon Prime Rewards Visa Signature Card",
       "type": "Visa",
       "merchant": "Amazon",
@@ -173,6 +177,7 @@
       }
     },
     { 
+      "ccid": 5, 
       "name": "Fidelity® Rewards Visa Signature® Card",
       "type": "Visa",
       "merchant": "Fidelity",
@@ -188,6 +193,7 @@
       }
     },
     {
+      "ccid": 6, 
       "name": "Blue Cash Everyday® Card",
       "type": "american express",
       "merchant": "American Express",
@@ -216,6 +222,7 @@
       }
     },
     {
+      "ccid": 7, 
       "name": "Orbitz Rewards Visa® Card",
       "type": "visa",
       "merchant": "Orbitz",
@@ -266,6 +273,7 @@
       }
     },
     {
+      "ccid": 8, 
       "name": "Bank of America Cash Rewards™ Credit Card",
       "type": "visa",
       "merchant": "Bank of America",
@@ -292,6 +300,28 @@
           },
           {
             "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": 9, 
+      "name": "Lowes Credit Card",
+      "type": "merchant",
+      "merchant": "Lowes",
+      "bank": "Synchrony Financial",
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/lowes_cc.png",
+      "annual-fee": 0,
+      "foreign-transaction-fee": "3%",
+      "rewards": {
+        "url": "https://www.lowes.com/cd_Lowes+Consumer+Credit+Center_739786611_",
+        "type": "Discount",
+        "offers": [
+          {
+            "percentage": 5,
+            "includes": [
+              "gas station"
+            ]
           }
         ]
       }
