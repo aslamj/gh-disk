@@ -251,7 +251,7 @@
             "using": "www.orbitz.com@desktop"
           },
           {
-            "percentage": 5,
+            "percentage": 7,
             "includes": [
               "restaurant"
             ],
@@ -320,7 +320,7 @@
           {
             "percentage": 5,
             "includes": [
-              "gas station"
+              "lowes"
             ]
           }
         ]
