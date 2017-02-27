@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/25/2017 GMT",
+  "lastUpdated": "02/26/2017 GMT",
   "creditCards": [
     {
       "ccid": "1", 
@@ -61,7 +61,7 @@
     },
     { 
       "ccid": "2", 
-      "name": "Costco Anywhere Visa Card",
+      "name": "Costco Anywhere Visa® Card",
       "type": "Visa",
       "merchant": "Costco",
       "bank": "Citi",
@@ -101,7 +101,7 @@
     { 
       "ccid": "3", 
       "name": "Discover Card",
-      "type": "discover",
+      "type": "Discover",
       "merchant": "Discover",
       "bank": "Discover",
       "image": "https://www.discover.com/credit-cards/images/cash/Discover-it-cash-credit-card-blue.png",
@@ -119,7 +119,7 @@
             "includes": [
               "gas station",
               "ground transportation",
-              "wholesale club"
+              "wholesale"
             ],
             "excludes": [
               "parking",
@@ -136,8 +136,8 @@
             "start": "04/01/2017 GMT",
             "end": "07/01/2017 GMT",
             "includes": [
-              "home improvement store",
-              "wholesale club"
+              "home improvement",
+              "wholesale"
             ]
           },
           {
@@ -195,10 +195,11 @@
     {
       "ccid": "6", 
       "name": "Blue Cash Everyday® Card",
-      "type": "american express",
+      "type": "American Express",
       "merchant": "American Express",
       "bank": "American Express",
-      "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png",
+      "image": "https://card.americanexpress.com/assets/desktop-a/images/blue-cash-everyday-card.png",
+      "annual-fee": 0,
       "rewards": {
         "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/25330?linknav=US-Acq-CCSG-Cardmember-CategoryCashBackCards-BCE-ViewCardDetails-Top-Pos1",
         "offers": [
@@ -224,7 +225,7 @@
     {
       "ccid": "7", 
       "name": "Orbitz Rewards Visa® Card",
-      "type": "visa",
+      "type": "Visa",
       "merchant": "Orbitz",
       "bank": "Comenity",
       "image": "https://a.travel-assets.com/flex/flexmanager/images/2016/07/15/ORB_VisaSignatureCard_4-3_large.png",
@@ -274,15 +275,15 @@
     },
     {
       "ccid": "8", 
-      "name": "Bank of America Cash Rewards™ Credit Card",
-      "type": "visa",
+      "name": "BankAmericard Cash Rewards Visa Signature",
+      "type": "Visa",
       "merchant": "Bank of America",
       "bank": "Bank of America",
-      "image": "https://consumer.bankofamerica.com/us/BRR00/images/8azc_cash_card.png",
+      "image": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8beb_cshsigcm_v_250x158.png",
       "annual-fee": 0,
       "foreign-transaction-fee": "3%",
       "rewards": {
-        "url": "https://consumer.bankofamerica.com/USCCapp/Ctl/entry?sc=VACNYS&cm_mmc=Cons-CC-_-Google-PS-_-Cash%20Rewards%20Card-_-Brand%20Visa%20Exact%20SL&gclid=Cj0KEQiAlsrFBRCAxcCB54XElLEBEiQA_ei0DEdMTvFJdoDUruIDV4g-22-FAd6yaqGce9zetKmH2qoaAn8y8P8HAQ#b",
+        "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
         "type": "Cash Back",
         "offers": [
           {
@@ -307,7 +308,7 @@
     {
       "ccid": "9", 
       "name": "Lowe's Credit Card",
-      "type": "merchant",
+      "type": "Merchant",
       "merchant": "Lowe's",
       "bank": "Synchrony Financial",
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/lowes_cc.png",
@@ -324,6 +325,31 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "ccid": "10", 
+      "name": "Citi ThankYou® Preferred Card",
+      "type": "Master Card",
+      "merchant": "Citi",
+      "bank": "Citi",
+      "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-thankyou-credit-card-preferred-card.jpg",
+      "annual-fee": 0,
+      "foreign-transaction-fee": "3%",
+      "rewards": {
+        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-thankyou-credit-card-preferred-card",
+        "type": "ThankYou® Points",
+        "offers": [
+          {
+            "percentage": 2,
+            "includes": [
+              "restaurant",
+              "entertainment"
+            ]
+          },
+          {
+            "percentage": 1
+          }        ]
       }
     }
   ]
