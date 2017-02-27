@@ -306,9 +306,9 @@
     },
     {
       "ccid": "9", 
-      "name": "Lowes Credit Card",
+      "name": "Lowe's Credit Card",
       "type": "merchant",
-      "merchant": "Lowes",
+      "merchant": "Lowe's",
       "bank": "Synchrony Financial",
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/lowes_cc.png",
       "annual-fee": 0,
@@ -320,7 +320,7 @@
           {
             "percentage": 5,
             "includes": [
-              "lowes"
+              "lowe's"
             ]
           }
         ]
