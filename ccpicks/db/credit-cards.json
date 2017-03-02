@@ -3,7 +3,7 @@
   "creditCards": [
     {
       "ccid": "1", 
-      "name": "Chase Freedom® Visa Card", 
+      "name": "Chase Freedom", 
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
@@ -181,7 +181,7 @@
       "name": "Fidelity® Rewards Visa Signature® Card",
       "type": "Visa",
       "merchant": "Fidelity",
-      "bank": "Fidelity",
+      "bank": "Elan Financial Services",
       "image": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/fidelity_rewards_cc.jpg",
       "rewards": {
         "url": "https://www.fidelity.com/cash-management/visa-signature-card",
@@ -227,7 +227,7 @@
       "name": "Orbitz Rewards Visa® Card",
       "type": "Visa",
       "merchant": "Orbitz",
-      "bank": "Comenity",
+      "bank": "Comenity Capital Bank",
       "image": "https://a.travel-assets.com/flex/flexmanager/images/2016/07/15/ORB_VisaSignatureCard_4-3_large.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
@@ -351,6 +351,50 @@
             "percentage": 1
           }        ]
       }
-    }
+    },
+    { 
+      "ccid": "11", 
+      "name": "Wells Fargo Propel American Express® Card",
+      "type": "American Express",
+      "merchant": "Wells Fargo",
+      "bank": "Wells Fargo",
+      "image": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card.png",
+      "rewards": {
+        "url": "https://www.wellsfargo.com/credit-cards/propel",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "gas station"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "restaurant"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    { 
+      "ccid": "12", 
+      "name": "Chase Freedom Unlimited Card",
+      "type": "Visa",
+      "merchant": "Chase",
+      "bank": "Chase",
+      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_unlimited_card.png",
+      "rewards": {
+        "url": "https://creditcards.chase.com/credit-cards/chase-freedom-unlimited",
+        "offers": [
+          {
+            "percentage": 1.5
+          }
+        ]
+      }
+    }         
   ]
 }
