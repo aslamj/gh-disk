@@ -27,6 +27,22 @@
       "ruleId": "retail",
       "matches": [
       ]
+    },
+    {
+      "ruleId": "entertainment",
+      "matches": [
+      	"movie",
+      	"cinema",
+      	"cinema hall"
+      ]
+    },
+    {
+      "ruleId": "travel",
+      "matches": [
+      	"flight",
+      	"train",
+      	"hotel"
+      ]
     }
   ]
 }

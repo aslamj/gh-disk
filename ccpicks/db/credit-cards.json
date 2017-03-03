@@ -3,7 +3,7 @@
   "creditCards": [
     {
       "ccid": "1", 
-      "name": "Chase Freedom", 
+      "name": "Chase Freedom Card", 
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
@@ -275,7 +275,7 @@
     },
     {
       "ccid": "8", 
-      "name": "BankAmericard Cash Rewards Visa Signature",
+      "name": "BankAmericard Cash Rewards Visa Signature Card",
       "type": "Visa",
       "merchant": "Bank of America",
       "bank": "Bank of America",
@@ -395,6 +395,50 @@
           }
         ]
       }
-    }         
+    },
+    { 
+      "ccid": "13", 
+      "name": "Chase AARP® Rewards Card",
+      "type": "Visa",
+      "merchant": "Chase",
+      "bank": "Chase",
+      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/aarp_card.png",
+      "rewards": {
+        "url": "https://creditcards.chase.com/credit-cards/aarp",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "gas station"
+            ]
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "restaurant"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    { 
+      "ccid": "14", 
+      "name": "Citi® Double Cash Card",
+      "type": "Visa",
+      "merchant": "Citi",
+      "bank": "Citi",
+      "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-double-cash-credit-card.jpg",
+      "rewards": {
+        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card&category=savings-and-cash-back-credit-cards&afc=1A8&intc=7~7~67~1~MCT~1~citi-double-cash-credit-card~4T5ZMCX711A8M10205W",
+        "offers": [
+          {
+            "percentage": 2
+          }
+        ]
+      }
+    }    
   ]
 }
