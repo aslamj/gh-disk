@@ -3,7 +3,7 @@
   "creditCards": [
     {
       "ccid": "1", 
-      "name": "Chase Freedom Card", 
+      "name": "Chase Freedom", 
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
@@ -13,7 +13,7 @@
         "offers": [
           {
             "percentage": 5,
-            "maximum": {
+            "limit": {
               "amount": 1500,
               "months": 3
             },
@@ -35,9 +35,9 @@
           },
           {
             "percentage": 5,
-            "maximum": {
-              "amount": 7000,
-              "months": 12
+            "limit": {
+              "amount": 1500,
+              "months": 3
             },
             "start": "04/01/2017 GMT",
             "end": "07/01/2017 GMT",
@@ -61,7 +61,7 @@
     },
     { 
       "ccid": "2", 
-      "name": "Costco Anywhere Visa® Card",
+      "name": "Costco Anywhere Visa®",
       "type": "Visa",
       "merchant": "Costco",
       "bank": "Citi",
@@ -71,7 +71,7 @@
         "offers": [
           {
             "percentage": 4,
-            "maximum": {
+            "limit": {
               "amount": 7000,
               "months": 12
             },
@@ -100,7 +100,7 @@
     },
     { 
       "ccid": "3", 
-      "name": "Discover Card",
+      "name": "Discover it®",
       "type": "Discover",
       "merchant": "Discover",
       "bank": "Discover",
@@ -110,7 +110,7 @@
         "offers": [
           {
             "percentage": 5,
-            "maximum": {
+            "limit": {
               "amount": 1500,
               "months": 3
             },
@@ -129,7 +129,7 @@
           },
           {
             "percentage": 5,
-            "maximum": {
+            "limit": {
               "amount": 7000,
               "months": 12
             },
@@ -148,7 +148,7 @@
     },
     { 
       "ccid": "4", 
-      "name": "Amazon Prime Rewards Visa Signature Card",
+      "name": "Amazon Prime Rewards Visa Signature",
       "type": "Visa",
       "merchant": "Amazon",
       "bank": "Chase",
@@ -178,7 +178,7 @@
     },
     { 
       "ccid": "5", 
-      "name": "Fidelity® Rewards Visa Signature® Card",
+      "name": "Fidelity® Rewards Visa Signature®",
       "type": "Visa",
       "merchant": "Fidelity",
       "bank": "Elan Financial Services",
@@ -194,7 +194,7 @@
     },
     {
       "ccid": "6", 
-      "name": "Blue Cash Everyday® Card",
+      "name": "Blue Cash Everyday®",
       "type": "American Express",
       "merchant": "American Express",
       "bank": "American Express",
@@ -224,7 +224,7 @@
     },
     {
       "ccid": "7", 
-      "name": "Orbitz Rewards Visa® Card",
+      "name": "Orbitz Rewards Visa®",
       "type": "Visa",
       "merchant": "Orbitz",
       "bank": "Comenity Capital Bank",
@@ -275,7 +275,7 @@
     },
     {
       "ccid": "8", 
-      "name": "BankAmericard Cash Rewards Visa Signature Card",
+      "name": "BankAmericard Cash Rewards Visa Signature",
       "type": "Visa",
       "merchant": "Bank of America",
       "bank": "Bank of America",
@@ -329,8 +329,8 @@
     },
     {
       "ccid": "10", 
-      "name": "Citi ThankYou® Preferred Card",
-      "type": "Master Card",
+      "name": "Citi ThankYou® Preferred",
+      "type": "Master",
       "merchant": "Citi",
       "bank": "Citi",
       "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-thankyou-credit-card-preferred-card.jpg",
@@ -354,7 +354,7 @@
     },
     { 
       "ccid": "11", 
-      "name": "Wells Fargo Propel American Express® Card",
+      "name": "Wells Fargo Propel American Express®",
       "type": "American Express",
       "merchant": "Wells Fargo",
       "bank": "Wells Fargo",
@@ -382,7 +382,7 @@
     },
     { 
       "ccid": "12", 
-      "name": "Chase Freedom Unlimited Card",
+      "name": "Chase Freedom Unlimited",
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
@@ -398,7 +398,7 @@
     },
     { 
       "ccid": "13", 
-      "name": "Chase AARP® Rewards Card",
+      "name": "Chase AARP® Rewards",
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
@@ -426,7 +426,7 @@
     },
     { 
       "ccid": "14", 
-      "name": "Citi® Double Cash Card",
+      "name": "Citi® Double Cash",
       "type": "Visa",
       "merchant": "Citi",
       "bank": "Citi",
@@ -439,6 +439,83 @@
           }
         ]
       }
-    }    
+    },
+    { 
+      "ccid": "15", 
+      "name": "Discover it® Gas and Restaurant",
+      "type": "Discover",
+      "merchant": "Discover",
+      "bank": "Discover",
+      "image": "https://www.discover.com/credit-cards/images/student/best-student-credit-card-chrome.png",
+      "web": "https://www.discover.com/credit-cards/cash-back/chrome.html",
+      "rewards": {
+        "offers": [
+          {
+            "percentage": 2,
+            "limit": {
+              "amount": 1000,
+              "months": 3
+            },
+            "includes": [
+              "gas station",
+              "restaurant"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    { 
+      "ccid": "16", 
+      "name": "Discover NHL® Discover it®",
+      "type": "Discover",
+      "merchant": "Discover",
+      "bank": "Discover",
+      "image": "https://www.discover.com/credit-cards/images/nhl/Discover-it-nhl-card.png",
+      "web": "https://www.discover.com/credit-cards/cash-back/nhl-card.html",
+      "rewards": {
+        "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
+        "offers": [
+          {
+            "percentage": 5,
+            "limit": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "01/01/2017 GMT",
+            "end": "04/01/2017 GMT",
+            "includes": [
+              "gas station",
+              "ground transportation",
+              "wholesale"
+            ],
+            "excludes": [
+              "parking",
+              "toll",
+              "amtrack"
+            ]
+          },
+          {
+            "percentage": 5,
+            "limit": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "04/01/2017 GMT",
+            "end": "07/01/2017 GMT",
+            "includes": [
+              "home improvement",
+              "wholesale club",
+              "wholesale"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    }
   ]
 }
