@@ -1,0 +1,106 @@
+{
+  "lastUpdated": "02/26/2017 GMT",
+  "categories": [
+    {
+      "name": "gas stations",
+      "matches": [
+        "gas station",
+        "gas",
+        "gas pump"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/gas-station.png"
+    },
+    {
+      "name": "restaurants",
+      "matches": [
+        "restaurant",
+        "bar",
+        "cafe",
+        "fast food",
+        "bakery"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/restaurant.png"
+    },
+    {
+      "name": "supermarkets",
+      "matches": [
+        "supermarket"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/supermarket.png"
+    },
+    {
+      "name": "wholesales",
+      "matches": [
+        "wholesale"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/wholesale.png"
+    },
+    {
+      "name": "groceries",
+      "matches": [
+        "grocrey",
+        "bakery"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/grocery.png"
+    },
+    {
+      "name": "retail",
+      "matches": [
+        "department"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/retail.png"
+    },
+    {
+      "name": "entertainment",
+      "matches": [
+        "movie",
+        "cinema",
+        "cinema hall"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/entertainment.png"
+    },
+    {
+      "name": "travel",
+      "matches": [
+        "flight",
+        "train",
+        "hotel",
+        "bus"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/travel.png"
+    },
+    {
+      "name": "clothing",
+      "matches": [
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/clothing.png"
+    },
+    {
+      "name": "home goods",
+      "matches": [
+        "home good",
+        "hardware",
+        "furniture"
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/home-goods.png"
+    },
+    {
+      "name": "amazon",
+      "matches": [
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/amazon.png"
+    },
+    {
+      "name": "kohl's",
+      "matches": [
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/kohls.png"
+    },
+    {
+      "name": "lowe's",
+      "matches": [
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/lowes.png"
+    }
+  ]
+}
