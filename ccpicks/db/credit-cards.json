@@ -449,6 +449,7 @@
       "image": "https://www.discover.com/credit-cards/images/student/best-student-credit-card-chrome.png",
       "web": "https://www.discover.com/credit-cards/cash-back/chrome.html",
       "rewards": {
+        "url": "https://www.discover.com/credit-cards/cash-back/chrome.html",
         "offers": [
           {
             "percentage": 2,
