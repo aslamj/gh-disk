@@ -24,14 +24,14 @@
     {
       "name": "supermarkets",
       "matches": [
-        "supermarket"
+        "grocery or supermarket"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/supermarket.png"
     },
     {
-      "name": "wholesales",
+      "name": "wholesale",
       "matches": [
-        "wholesale"
+        "wholesale club"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/wholesale.png"
     },
@@ -39,13 +39,16 @@
       "name": "groceries",
       "matches": [
         "grocrey",
-        "bakery"
+        "grocery store",
+        "bakery",
+        "grocery or supermarket"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/grocery.png"
     },
     {
       "name": "retail",
       "matches": [
+        "department store",
         "department"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/retail.png"
@@ -65,6 +68,7 @@
         "flight",
         "train",
         "hotel",
+        "amtrak",
         "bus"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/travel.png"
@@ -76,11 +80,12 @@
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/clothing.png"
     },
     {
-      "name": "home goods",
+      "name": "home improvement",
       "matches": [
-        "home good",
-        "hardware",
-        "furniture"
+        "home improvement store",
+        "home goods store",
+        "hardware store",
+        "furniture store"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/home-goods.png"
     },
@@ -99,8 +104,15 @@
     {
       "name": "lowe's",
       "matches": [
+        "lowe's home improvement"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/lowes.png"
-    }
+    },
+    {
+      "name": "costco",
+      "matches": [
+      ],
+      "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/costco.png"
+    }    
   ]
 }
