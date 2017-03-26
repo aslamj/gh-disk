@@ -111,6 +111,7 @@
     {
       "name": "costco",
       "matches": [
+        "costco wholesale"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/costco.png"
     }    

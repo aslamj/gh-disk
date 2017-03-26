@@ -9,6 +9,7 @@
       "bank": "Chase",
       "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_card.png",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://creditcards.chase.com/freedom/calendar",
         "offers": [
           {
@@ -67,6 +68,7 @@
       "bank": "Citi",
       "image": "https://www.citi.com/CRD/images/card_no_reflection/Citi-costco-anywhere-visa-credit-card.jpg",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card",
         "offers": [
           {
@@ -89,7 +91,8 @@
           {
             "percentage": 2,
             "includes": [
-              "costco"
+              "costco",
+              "costco wholesale"
             ]
           },
           {
@@ -106,6 +109,7 @@
       "bank": "Discover",
       "image": "https://www.discover.com/credit-cards/images/cash/Discover-it-cash-credit-card-blue.png",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
         "offers": [
           {
@@ -154,6 +158,7 @@
       "bank": "Chase",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VgxfCVJOL.jpg",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.amazon.com/Amazon-Prime-Rewards-Visa-Signature/dp/BT00LN946S/ref=sr_1_1?ie=UTF8&qid=1487585281&sr=8-1&keywords=amazon+prime+credit+card",
         "offers": [
           {
@@ -184,6 +189,7 @@
       "bank": "Elan Financial Services",
       "image": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/fidelity_rewards_cc.jpg",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.fidelity.com/cash-management/visa-signature-card",
         "offers": [
           {
@@ -201,6 +207,7 @@
       "image": "https://card.americanexpress.com/assets/desktop-a/images/blue-cash-everyday-card.png",
       "annual-fee": 0,
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/25330?linknav=US-Acq-CCSG-Cardmember-CategoryCashBackCards-BCE-ViewCardDetails-Top-Pos1",
         "offers": [
           {
@@ -232,8 +239,8 @@
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
-        "url": "https://www.orbitz.com/rewards/visacard",
         "type": "Orbucks",
+        "url": "https://www.orbitz.com/rewards/visacard",
         "offers": [
           {
             "percentage": 10,
@@ -283,8 +290,8 @@
       "annual-fee": 0,
       "foreign-transaction-fee": "3%",
       "rewards": {
-        "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
         "type": "Cash Back",
+        "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
         "offers": [
           {
             "percentage": 3,
@@ -315,8 +322,8 @@
       "annual-fee": 0,
       "foreign-transaction-fee": "3%",
       "rewards": {
-        "url": "https://www.lowes.com/cd_Lowes+Consumer+Credit+Center_739786611_",
         "type": "Discount",
+        "url": "https://www.lowes.com/cd_Lowes+Consumer+Credit+Center_739786611_",
         "offers": [
           {
             "percentage": 5,
@@ -338,8 +345,8 @@
       "annual-fee": 0,
       "foreign-transaction-fee": "3%",
       "rewards": {
-        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-thankyou-credit-card-preferred-card",
         "type": "ThankYou® Points",
+        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-thankyou-credit-card-preferred-card",
         "offers": [
           {
             "percentage": 2,
@@ -361,6 +368,7 @@
       "bank": "Wells Fargo",
       "image": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card.png",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.wellsfargo.com/credit-cards/propel",
         "offers": [
           {
@@ -389,6 +397,7 @@
       "bank": "Chase",
       "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_unlimited_card.png",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://creditcards.chase.com/credit-cards/chase-freedom-unlimited",
         "offers": [
           {
@@ -405,6 +414,7 @@
       "bank": "Chase",
       "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/aarp_card.png",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://creditcards.chase.com/credit-cards/aarp",
         "offers": [
           {
@@ -433,6 +443,7 @@
       "bank": "Citi",
       "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-double-cash-credit-card.jpg",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card&category=savings-and-cash-back-credit-cards&afc=1A8&intc=7~7~67~1~MCT~1~citi-double-cash-credit-card~4T5ZMCX711A8M10205W",
         "offers": [
           {
@@ -450,6 +461,7 @@
       "image": "https://www.discover.com/credit-cards/images/student/best-student-credit-card-chrome.png",
       "web": "https://www.discover.com/credit-cards/cash-back/chrome.html",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.discover.com/credit-cards/cash-back/chrome.html",
         "offers": [
           {
@@ -478,6 +490,7 @@
       "image": "https://www.discover.com/credit-cards/images/nhl/Discover-it-nhl-card.png",
       "web": "https://www.discover.com/credit-cards/cash-back/nhl-card.html",
       "rewards": {
+        "type": "Cash Back",
         "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
         "offers": [
           {
@@ -510,6 +523,40 @@
             "includes": [
               "home improvement stores",
               "wholesale club"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "17", 
+      "name": "Blue Cash Preferred® Card®",
+      "type": "American Express",
+      "merchant": "American Express",
+      "bank": "American Express",
+      "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-preferred.png",
+      "annual-fee": 95,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/25330?linknav=US-Acq-CCSG-Prospect-VAC-BCP-CardArt",
+        "offers": [
+          {
+            "percentage": 6,
+            "includes": [
+              "supermarkets"
+            ],
+            "limit": {
+              "amount": 6000,
+              "months": 12
+            }
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "gas stations"
             ]
           },
           {
