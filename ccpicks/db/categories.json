@@ -31,7 +31,9 @@
     {
       "name": "wholesale",
       "matches": [
-        "wholesale club"
+        "wholesale clubs",
+        "discount stores",
+        "warehouse clubs"
       ],
       "image": "https://raw.githubusercontent.com/aslamj/gh-disk/master/ccpicks/images/categories/wholesale.png"
     },
@@ -39,7 +41,7 @@
       "name": "groceries",
       "matches": [
         "grocrey",
-        "grocery store",
+        "grocery stores",
         "bakery",
         "grocery or supermarket"
       ],

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02/26/2017 GMT",
+  "lastUpdated": "04/01/2017 GMT",
   "creditCards": [
     {
       "ccid": "1", 
@@ -18,36 +18,16 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2017 GMT",
-            "end": "04/01/2017 GMT",
-            "includes": [
-              "gas stations",
-              "local commuter transportation"
-            ],
-            "excludes": [
-              "parking",
-              "toll",
-              "amtrack"
-            ],
-            "activate": {
-              "start": "12/15/2016 GMT",
-              "end": "03/15/2017 GMT"
-            }
-          },
-          {
-            "percentage": 5,
-            "limit": {
-              "amount": 1500,
-              "months": 3
-            },
             "start": "04/01/2017 GMT",
             "end": "07/01/2017 GMT",
             "includes": [
-              "grocery store"
+              "grocery stores"
             ],
             "excludes": [
               "walmart",
-              "target"
+              "target",
+              "discount stores",
+              "warehouse clubs"
             ],
             "activate": {
               "start": "03/15/2017 GMT",
@@ -117,25 +97,6 @@
             "limit": {
               "amount": 1500,
               "months": 3
-            },
-            "start": "01/01/2017 GMT",
-            "end": "04/01/2017 GMT",
-            "includes": [
-              "gas stations",
-              "ground transportation",
-              "wholesale clubs"
-            ],
-            "excludes": [
-              "parking",
-              "toll",
-              "amtrack"
-            ]
-          },
-          {
-            "percentage": 5,
-            "limit": {
-              "amount": 7000,
-              "months": 12
             },
             "start": "04/01/2017 GMT",
             "end": "07/01/2017 GMT",
@@ -338,7 +299,7 @@
     {
       "ccid": "10", 
       "name": "Citi ThankYou® Preferred",
-      "type": "Master",
+      "type": "MasterCard",
       "merchant": "Citi",
       "bank": "Citi",
       "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-thankyou-credit-card-preferred-card.jpg",
@@ -499,30 +460,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2017 GMT",
-            "end": "04/01/2017 GMT",
-            "includes": [
-              "gas stations",
-              "ground transportation",
-              "wholesale clubs"
-            ],
-            "excludes": [
-              "parking",
-              "toll",
-              "amtrack"
-            ]
-          },
-          {
-            "percentage": 5,
-            "limit": {
-              "amount": 1500,
-              "months": 3
-            },
             "start": "04/01/2017 GMT",
             "end": "07/01/2017 GMT",
             "includes": [
               "home improvement stores",
-              "wholesale club"
+              "wholesale clubs"
             ]
           },
           {
@@ -533,7 +475,7 @@
     },
     {
       "ccid": "17", 
-      "name": "Blue Cash Preferred® Card®",
+      "name": "Blue Cash Preferred®",
       "type": "American Express",
       "merchant": "American Express",
       "bank": "American Express",
@@ -561,6 +503,74 @@
           },
           {
             "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "18", 
+      "name": "Premier Dining Rewards",
+      "type": "MasterCard",
+      "merchant": "Capital One",
+      "bank": "Capital One",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/YfTY388jMQWqyGmSSWKWy/a771f46ccc12913f35f0806e5aee5543/www-blue-steel-worldelite-generic-240x151.png",
+      "annual-fee": 0,
+      "foreign-transaction-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.capitalone.com/credit-cards/premier-dining-rewards/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMMQC4S&PageName=Cash%20Back&ComponentName=suiteTable&ContentElement=10;Card%20Details&TargetPageName=%2Fcredit-cards%2Fpremier-dining-rewards&referer=https:%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fcash-back",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "restaurants"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "groceries"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "19", 
+      "name": "QuicksilverOne",
+      "type": "MasterCard",
+      "merchant": "Capital One",
+      "bank": "Capital One",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/6bhwF9foI0SqumSCyGWqQk/7fe6237b2d6c2704e5a3cadac7fc0941/qs1-mc-240x151.png",
+      "annual-fee": 39,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.capitalone.com/credit-cards/quicksilverone/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMMQC4S&PageName=Cash%20Back&ComponentName=suiteTable&ContentElement=12;Card%20Details&TargetLob=MTS::LCTMMQC4S&TargetPageName=QuicksilverOne%20Card%20Details&referer=https:%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fcash-back",
+        "offers": [
+          {
+            "percentage": 1.5
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "20", 
+      "name": "Quicksilver",
+      "type": "MasterCard",
+      "merchant": "Capital One",
+      "bank": "Capital One",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/6GnKfL3PMcmSEegGci4weC/d1dcdcddd338519006d209d6ff09bf4f/www-quicksilver-generic-240x151.png",
+      "annual-fee": 0,
+      "foreign-transaction-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.capitalone.com/credit-cards/quicksilver/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMMQC4S&PageName=Cash%20Back&ComponentName=suiteTable&ContentElement=2;Quicksilver%3Csup%3E%26reg;%3C%2Fsup%3E%20Rewards&TargetLob=MTS::LCTMMQC4S&TargetPageName=quicksilver&referer=https:%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fcash-back",
+        "offers": [
+          {
+            "percentage": 1.5
           }
         ]
       }
