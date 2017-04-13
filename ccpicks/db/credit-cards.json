@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/01/2017 GMT",
+  "lastUpdated": "04/13/2017 GMT",
   "creditCards": [
     {
       "ccid": "1", 
@@ -513,7 +513,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/YfTY388jMQWqyGmSSWKWy/a771f46ccc12913f35f0806e5aee5543/www-blue-steel-worldelite-generic-240x151.png",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/4gkGUrtZ0ckOcUGAqIwoe6/17ca392a5bbeaca5dcea6d80c4f51bdb/www-blue-steel-worldelite-240x151.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
@@ -540,11 +540,11 @@
     },
     {
       "ccid": "19", 
-      "name": "QuicksilverOne",
+      "name": "QuicksilverOne Rewards",
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/6bhwF9foI0SqumSCyGWqQk/7fe6237b2d6c2704e5a3cadac7fc0941/qs1-mc-240x151.png",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/6w91IYQXqEcy280um04YQi/897dd159b790150b5e2789e902ba8662/www-quicksilverone-mc-world-elite-full-generic-240x151.png",
       "annual-fee": 39,
       "rewards": {
         "type": "Cash Back",
@@ -558,11 +558,11 @@
     },
     {
       "ccid": "20", 
-      "name": "Quicksilver",
+      "name": "Quicksilver Rewards",
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/6GnKfL3PMcmSEegGci4weC/d1dcdcddd338519006d209d6ff09bf4f/www-quicksilver-generic-240x151.png",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/6HnMDkRd7iyGGqIkIcuyWA/40abb36171f1955837cc0eb9a75162a0/www-quicksilver-mc-world-elite-generic-240x151.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
