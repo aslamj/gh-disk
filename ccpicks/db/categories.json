@@ -59,6 +59,7 @@
       "name": "entertainment",
       "matches": [
         "movie",
+        "movie theater",
         "cinema",
         "cinema hall"
       ],

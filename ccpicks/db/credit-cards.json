@@ -18,10 +18,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2017 GMT",
-            "end": "07/01/2017 GMT",
+            "start": "07/01/2017 GMT",
+            "end": "10/01/2017 GMT",
             "includes": [
-              "grocery stores"
+              "restaurants",
+              "movie theaters"
             ],
             "excludes": [
               "walmart",
@@ -30,8 +31,8 @@
               "warehouse clubs"
             ],
             "activate": {
-              "start": "03/15/2017 GMT",
-              "end": "06/15/2017 GMT"
+              "start": "06/15/2017 GMT",
+              "end": "09/15/2017 GMT"
             }
           },
           {
@@ -98,11 +99,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2017 GMT",
-            "end": "07/01/2017 GMT",
+            "start": "07/01/2017 GMT",
+            "end": "10/01/2017 GMT",
             "includes": [
-              "home improvement stores",
-              "wholesale clubs"
+              "restaurants"
             ]
           },
           {
@@ -460,11 +460,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2017 GMT",
-            "end": "07/01/2017 GMT",
+            "start": "07/01/2017 GMT",
+            "end": "10/01/2017 GMT",
             "includes": [
-              "home improvement stores",
-              "wholesale clubs"
+              "restaurants"
             ]
           },
           {
