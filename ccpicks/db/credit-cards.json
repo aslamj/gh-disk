@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04/13/2017 GMT",
+  "lastUpdated": "10/01/2017 GMT",
   "creditCards": [
     {
       "ccid": "1", 
@@ -18,21 +18,25 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "07/01/2017 GMT",
-            "end": "10/01/2017 GMT",
+            "start": "10/01/2017 GMT",
+            "end": "01/01/2018 GMT",
             "includes": [
-              "restaurants",
-              "movie theaters"
+              "walmart",
+              "department stores"
             ],
             "excludes": [
-              "walmart",
-              "target",
               "discount stores",
-              "warehouse clubs"
+              "warehouse clubs",
+              "grocery stores",
+              "sam's club",
+              "target",
+              "kmart",
+              "tj maxx",
+              "electronics stores"
             ],
             "activate": {
-              "start": "06/15/2017 GMT",
-              "end": "09/15/2017 GMT"
+              "start": "09/15/2017 GMT",
+              "end": "10/15/2017 GMT"
             }
           },
           {
@@ -99,10 +103,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "07/01/2017 GMT",
-            "end": "10/01/2017 GMT",
+            "start": "10/01/2017 GMT",
+            "end": "01/01/2018 GMT",
             "includes": [
-              "restaurants"
+              "amazon",
+              "target"
             ]
           },
           {
@@ -460,10 +465,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "07/01/2017 GMT",
-            "end": "10/01/2017 GMT",
+            "start": "10/01/2017 GMT",
+            "end": "01/01/2018 GMT",
             "includes": [
-              "restaurants"
+              "amazon",
+              "target"
             ]
           },
           {
