@@ -18,25 +18,21 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2017 GMT",
-            "end": "01/01/2018 GMT",
+            "start": "01/01/2018 GMT",
+            "end": "04/01/2018 GMT",
             "includes": [
-              "walmart",
-              "department stores"
+              "gas stations",
+              "internet/cable/phone services",
+              "chase pay",
+              "android pay",
+              "apple pay",
+              "samsung pay"
             ],
             "excludes": [
-              "discount stores",
-              "warehouse clubs",
-              "grocery stores",
-              "sam's club",
-              "target",
-              "kmart",
-              "tj maxx",
-              "electronics stores"
             ],
             "activate": {
-              "start": "09/15/2017 GMT",
-              "end": "10/15/2017 GMT"
+              "start": "12/15/2017 GMT",
+              "end": "03/14/2018 GMT"
             }
           },
           {
@@ -103,11 +99,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2017 GMT",
-            "end": "01/01/2018 GMT",
+            "start": "01/01/2018 GMT",
+            "end": "04/01/2018 GMT",
             "includes": [
-              "amazon",
-              "target"
+              "gas stations",
+              "wholesale clubs"
             ]
           },
           {
@@ -465,11 +461,11 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2017 GMT",
-            "end": "01/01/2018 GMT",
+            "start": "01/01/2018 GMT",
+            "end": "04/01/2018 GMT",
             "includes": [
-              "amazon",
-              "target"
+              "gas stations",
+              "wholesale clubs"
             ]
           },
           {
@@ -518,7 +514,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/4yKPqhJJAIW8gYAyysoqEO/7c6e9a90ddfff65e5bae4d2ac96c09f3/www-blue-steel-mc-worldelite-240x151.png",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/savor-card-art.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
@@ -549,7 +545,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/6w91IYQXqEcy280um04YQi/897dd159b790150b5e2789e902ba8662/www-quicksilverone-mc-world-elite-full-generic-240x151.png",
+      "image": "https://www.capitalone.com/assets/credit-cards/img/www-quicksilverone-mc-world-elite-full-generic-240x151.png",
       "annual-fee": 39,
       "rewards": {
         "type": "Cash Back",
@@ -567,7 +563,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/6HnMDkRd7iyGGqIkIcuyWA/40abb36171f1955837cc0eb9a75162a0/www-quicksilver-mc-world-elite-generic-240x151.png",
+      "image": "https://www.capitalone.com/assets/reviews/contentful/o3bz0fkvrksv/sRmXwkqb5IocCc0IKEMQe/e98daff669dda752a0f846406043c495/quicksilver-240x151.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
