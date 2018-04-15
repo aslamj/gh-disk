@@ -7,7 +7,7 @@
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
-      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_card.png",
+      "image": "https://creditcards.chase.com/K-Marketplace/images/cardart/freedom_card_alt.png",
       "rewards": {
         "type": "Cash Back",
         "url": "https://creditcards.chase.com/freedom/calendar",
@@ -18,21 +18,20 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2018 GMT",
-            "end": "04/01/2018 GMT",
+            "start": "04/01/2018 GMT",
+            "end": "07/01/2018 GMT",
             "includes": [
-              "gas stations",
-              "internet/cable/phone services",
-              "chase pay",
-              "android pay",
-              "apple pay",
-              "samsung pay"
+              "grocery stores",
+              "paypal",
+              "chase pay"
             ],
             "excludes": [
+              "walmart",
+              "target"
             ],
             "activate": {
-              "start": "12/15/2017 GMT",
-              "end": "03/14/2018 GMT"
+              "start": "03/15/2018 GMT",
+              "end": "06/14/2018 GMT"
             }
           },
           {
@@ -99,11 +98,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2018 GMT",
-            "end": "04/01/2018 GMT",
+            "start": "04/01/2018 GMT",
+            "end": "07/01/2018 GMT",
             "includes": [
-              "gas stations",
-              "wholesale clubs"
+              "grocery stores"
             ]
           },
           {
@@ -166,7 +164,7 @@
       "type": "American Express",
       "merchant": "American Express",
       "bank": "American Express",
-      "image": "https://card.americanexpress.com/assets/desktop-a/images/blue-cash-everyday-card.png",
+      "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/CardArt/My-Card/L-Desktop/blue-cash-everyday.png?CPS_CARD_SHOP_VER",
       "annual-fee": 0,
       "rewards": {
         "type": "Cash Back",
@@ -357,7 +355,7 @@
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
-      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/freedom_unlimited_card.png",
+      "image": "https://creditcards.chase.com/K-Marketplace/images/cardart/freedom_unlimited_card_alt.png",
       "rewards": {
         "type": "Cash Back",
         "url": "https://creditcards.chase.com/credit-cards/chase-freedom-unlimited",
@@ -374,7 +372,7 @@
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
-      "image": "https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/aarp_card.png",
+      "image": "https://creditcards.chase.com/K-Marketplace/images/cardart/aarp_card.png",
       "rewards": {
         "type": "Cash Back",
         "url": "https://creditcards.chase.com/credit-cards/aarp",
@@ -461,11 +459,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2018 GMT",
-            "end": "04/01/2018 GMT",
+            "start": "04/01/2018 GMT",
+            "end": "07/01/2018 GMT",
             "includes": [
-              "gas stations",
-              "wholesale clubs"
+              "grocery stores"
             ]
           },
           {
