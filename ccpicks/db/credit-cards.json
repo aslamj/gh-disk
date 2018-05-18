@@ -572,6 +572,41 @@
           }
         ]
       }
+    },
+    {
+      "ccid": "21", 
+      "name": "TD Cash",
+      "type": "Visa",
+      "merchant": "TD Bank",
+      "bank": "TD Bank",
+      "image": "https://www.tdbank.com/exc/img/creditcards/cashcard_image.jpg",
+      "annual-fee": 0,
+      "foreign-transaction-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.tdbank.com/personalcreditcard/cashrewardscard.html#",
+        "offers": [
+          {
+            "percentage": 3,
+            "includes": [
+              "restaurants"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "groceries"
+            ],
+            "excludes": [
+              "superstore",
+              "warehouse club"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
     }
   ]
 }
