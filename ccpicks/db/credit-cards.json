@@ -18,20 +18,18 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2018 GMT",
-            "end": "07/01/2018 GMT",
+            "start": "07/01/2018 GMT",
+            "end": "10/01/2018 GMT",
             "includes": [
-              "grocery stores",
-              "paypal",
-              "chase pay"
+              "gas station",
+              "lyft",
+              "walgreens"
             ],
             "excludes": [
-              "walmart",
-              "target"
             ],
             "activate": {
-              "start": "03/15/2018 GMT",
-              "end": "06/14/2018 GMT"
+              "start": "06/15/2018 GMT",
+              "end": "09/14/2018 GMT"
             }
           },
           {
@@ -98,10 +96,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2018 GMT",
-            "end": "07/01/2018 GMT",
+            "start": "07/01/2018 GMT",
+            "end": "10/01/2018 GMT",
             "includes": [
-              "grocery stores"
+              "restaurant"
             ]
           },
           {
@@ -459,10 +457,10 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2018 GMT",
-            "end": "07/01/2018 GMT",
+            "start": "07/01/2018 GMT",
+            "end": "10/01/2018 GMT",
             "includes": [
-              "grocery stores"
+              "restaurant"
             ]
           },
           {
