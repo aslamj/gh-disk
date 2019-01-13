@@ -18,18 +18,18 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2018 GMT",
-            "end": "01/01/2019 GMT",
+            "start": "01/01/2019 GMT",
+            "end": "04/01/2019 GMT",
             "includes": [
-              "department store",
-              "wholesale club",
-              "chasepay"
+              "gas station",
+              "tolls",
+              "drugstore"
             ],
             "excludes": [
             ],
             "activate": {
-              "start": "09/15/2018 GMT",
-              "end": "10/14/2018 GMT"
+              "start": "12/15/2018 GMT",
+              "end": "03/14/2019 GMT"
             }
           },
           {
@@ -96,12 +96,19 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2018 GMT",
-            "end": "01/01/2019 GMT",
+            "start": "01/01/2019 GMT",
+            "end": "04/01/2019 GMT",
             "includes": [
-              "amazon",
-              "wholesale club"
-            ]
+              "grocery store"
+            ],
+            "excludes": [
+              "walmart",
+              "target"
+            ],
+            "activate": {
+              "start": "11/01/2018 GMT",
+              "end": "03/30/2019 GMT"
+            }
           },
           {
             "percentage": 1
@@ -458,12 +465,19 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "10/01/2018 GMT",
-            "end": "01/01/2019 GMT",
+            "start": "01/01/2019 GMT",
+            "end": "04/01/2019 GMT",
             "includes": [
-              "amazon",
-              "wholesale club"
-            ]
+              "grocery store"
+            ],
+            "excludes": [
+              "walmart",
+              "target"
+            ],
+            "activate": {
+              "start": "11/01/2018 GMT",
+              "end": "03/30/2019 GMT"
+            }
           },
           {
             "percentage": 1
