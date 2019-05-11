@@ -2,7 +2,7 @@
   "lastUpdated": "10/01/2017 GMT",
   "creditCards": [
     {
-      "ccid": "1", 
+      "ccid": "1",
       "name": "Chase Freedom", 
       "type": "Visa",
       "merchant": "Chase",
@@ -18,18 +18,19 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2019 GMT",
-            "end": "04/01/2019 GMT",
+            "start": "04/01/2019 GMT",
+            "end": "07/01/2019 GMT",
             "includes": [
-              "gas station",
-              "tolls",
-              "drugstore"
+              "grocery stores",
+              "home improvement"
             ],
             "excludes": [
+              "walmart",
+              "target"
             ],
             "activate": {
-              "start": "12/15/2018 GMT",
-              "end": "03/14/2019 GMT"
+              "start": "03/15/2019 GMT",
+              "end": "06/14/2019 GMT"
             }
           },
           {
@@ -96,18 +97,20 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2019 GMT",
-            "end": "04/01/2019 GMT",
+            "start": "04/01/2019 GMT",
+            "end": "07/01/2019 GMT",
             "includes": [
-              "grocery store"
+              "gas station",
+              "uber",
+              "lyft"
             ],
             "excludes": [
               "walmart",
               "target"
             ],
             "activate": {
-              "start": "11/01/2018 GMT",
-              "end": "03/30/2019 GMT"
+              "start": "02/01/2019 GMT",
+              "end": "06/30/2019 GMT"
             }
           },
           {
@@ -301,31 +304,6 @@
         ]
       }
     },
-    {
-      "ccid": "10", 
-      "name": "Citi ThankYou® Preferred",
-      "type": "MasterCard",
-      "merchant": "Citi",
-      "bank": "Citi",
-      "image": "https://www.citi.com/CRD/images/card_no_reflection/citi-thankyou-credit-card-preferred-card.jpg",
-      "annual-fee": 0,
-      "foreign-transaction-fee": "3%",
-      "rewards": {
-        "type": "ThankYou® Points",
-        "url": "https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-thankyou-credit-card-preferred-card",
-        "offers": [
-          {
-            "percentage": 2,
-            "includes": [
-              "restaurants",
-              "entertainment"
-            ]
-          },
-          {
-            "percentage": 1
-          }        ]
-      }
-    },
     { 
       "ccid": "11", 
       "name": "Wells Fargo Propel American Express®",
@@ -465,18 +443,20 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "01/01/2019 GMT",
-            "end": "04/01/2019 GMT",
+            "start": "04/01/2019 GMT",
+            "end": "07/01/2019 GMT",
             "includes": [
-              "grocery store"
+              "gas station",
+              "uber",
+              "lyft"
             ],
             "excludes": [
               "walmart",
               "target"
             ],
             "activate": {
-              "start": "11/01/2018 GMT",
-              "end": "03/30/2019 GMT"
+              "start": "02/01/2019 GMT",
+              "end": "06/30/2019 GMT"
             }
           },
           {
