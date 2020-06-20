@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10/01/2017 GMT",
+  "lastUpdated": "06/19/2020 GMT",
   "creditCards": [
     {
       "ccid": "1",
@@ -18,19 +18,17 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2019 GMT",
-            "end": "07/01/2019 GMT",
+            "start": "07/01/2020 GMT",
+            "end": "10/01/2020 GMT",
             "includes": [
-              "grocery stores",
-              "home improvement"
+              "amazon",
+              "whole food markets"
             ],
             "excludes": [
-              "walmart",
-              "target"
             ],
             "activate": {
-              "start": "03/15/2019 GMT",
-              "end": "06/14/2019 GMT"
+              "start": "06/15/2020 GMT",
+              "end": "09/14/2020 GMT"
             }
           },
           {
@@ -97,20 +95,17 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2019 GMT",
-            "end": "07/01/2019 GMT",
+            "start": "07/01/2020 GMT",
+            "end": "10/01/2020 GMT",
             "includes": [
-              "gas station",
-              "uber",
-              "lyft"
+              "restaurant",
+              "paypal"
             ],
             "excludes": [
-              "walmart",
-              "target"
             ],
             "activate": {
-              "start": "02/01/2019 GMT",
-              "end": "06/30/2019 GMT"
+              "start": "05/01/2020 GMT",
+              "end": "09/30/2020 GMT"
             }
           },
           {
@@ -133,7 +128,8 @@
           {
             "percentage": 5,
             "includes": [
-              "amazon"
+              "amazon",
+              "whole food market"
             ]
           },
           {
@@ -443,20 +439,17 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "04/01/2019 GMT",
-            "end": "07/01/2019 GMT",
+            "start": "07/01/2020 GMT",
+            "end": "10/01/2020 GMT",
             "includes": [
-              "gas station",
-              "uber",
-              "lyft"
+              "restaurant",
+              "paypal"
             ],
             "excludes": [
-              "walmart",
-              "target"
             ],
             "activate": {
-              "start": "02/01/2019 GMT",
-              "end": "06/30/2019 GMT"
+              "start": "05/01/2019 GMT",
+              "end": "09/30/2019 GMT"
             }
           },
           {
