@@ -7,7 +7,7 @@
       "type": "Visa",
       "merchant": "Chase",
       "bank": "Chase",
-      "image": "https://creditcards.chase.com/K-Marketplace/images/cardart/freedom_card_alt.png",
+      "image": "https://creditcards.chase.com/K-Freedom/images/freedom_card_image.png",
       "rewards": {
         "type": "Cash Back",
         "url": "https://creditcards.chase.com/freedom/calendar",
@@ -18,17 +18,20 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "07/01/2020 GMT",
-            "end": "10/01/2020 GMT",
+            "start": "01/01/2021 GMT",
+            "end": "04/01/2021 GMT",
             "includes": [
-              "amazon",
-              "whole food markets"
+              "wholesale clubs",
+              "internet services",
+              "cable services",
+              "phone services",
+              "select streaming services"
             ],
             "excludes": [
             ],
             "activate": {
-              "start": "06/15/2020 GMT",
-              "end": "09/14/2020 GMT"
+              "start": "12/15/2020 GMT",
+              "end": "03/14/2021 GMT"
             }
           },
           {
@@ -95,19 +98,78 @@
               "amount": 1500,
               "months": 3
             },
-            "start": "07/01/2020 GMT",
-            "end": "10/01/2020 GMT",
+            "start": "01/01/2021 GMT",
+            "end": "04/01/2021 GMT",
             "includes": [
-              "restaurant",
+              "grocery store",
+              "walgreens",
+              "cvs"
+            ],
+            "excludes": [
+            ],
+            "activate": {
+              "start": "11/01/2020 GMT",
+              "end": "04/01/2021 GMT"
+            }
+          },
+          {
+            "percentage": 5,
+            "limit": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "04/01/2021 GMT",
+            "end": "07/01/2021 GMT",
+            "includes": [
+              "gas stations",
+              "wholesale clubs",
+              "select streaming services"
+            ],
+            "excludes": [
+            ],
+            "activate": {
+              "start": "02/01/2020 GMT",
+              "end": "06/30/2021 GMT"
+            }
+          },
+          {
+            "percentage": 5,
+            "limit": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "07/01/2021 GMT",
+            "end": "10/01/2021 GMT",
+            "includes": [
+              "restaurants",
               "paypal"
             ],
             "excludes": [
             ],
             "activate": {
               "start": "05/01/2020 GMT",
-              "end": "09/30/2020 GMT"
+              "end": "09/30/2021 GMT"
             }
           },
+          {
+            "percentage": 5,
+            "limit": {
+              "amount": 1500,
+              "months": 3
+            },
+            "start": "10/01/2021 GMT",
+            "end": "01/01/2022 GMT",
+            "includes": [
+              "amazon",
+              "walmart",
+              "target"
+            ],
+            "excludes": [
+            ],
+            "activate": {
+              "start": "08/01/2020 GMT",
+              "end": "12/31/2021 GMT"
+            }
           {
             "percentage": 1
           }
@@ -177,6 +239,10 @@
         "offers": [
           {
             "percentage": 3,
+            "limit": {
+              "amount": 6000,
+              "months": 12
+            },
             "includes": [
               "supermarkets"
             ]
@@ -208,9 +274,10 @@
         "url": "https://www.orbitz.com/rewards/visacard",
         "offers": [
           {
-            "percentage": 10,
+            "percentage": 9,
             "includes": [
-              "hotels"
+              "hotels",
+              "activities"
             ],
             "online": true,
             "using": "www.orbitz.com@mobile"
@@ -218,10 +285,11 @@
           {
             "percentage": 8,
             "includes": [
-              "hotels"
+              "hotels",
+              "activities"
             ],
             "online": true,
-            "using": "www.orbitz.com@desktop"
+            "using": "www.orbitz.com"
           },
           {
             "percentage": 7,
@@ -232,9 +300,25 @@
             "using": "www.orbitzrewardsdining.com"
           },
           {
+            "percentage": 7,
+            "includes": [
+              "flight"
+            ],
+            "online": true,
+            "using": "www.orbitz.com@mobile"
+          },
+          {
             "percentage": 6,
             "includes": [
               "flight"
+            ],
+            "online": true,
+            "using": "www.orbitz.com"
+          },
+          {
+            "percentage": 5,
+            "includes": [
+              "qualifying orbitz purchases"
             ],
             "online": true,
             "using": "www.orbitz.com"
@@ -247,7 +331,7 @@
     },
     {
       "ccid": "8", 
-      "name": "BankAmericard Cash Rewards Visa Signature",
+      "name": "Bank of America Cash Back Rewards",
       "type": "Visa",
       "merchant": "Bank of America",
       "bank": "Bank of America",
@@ -261,7 +345,12 @@
           {
             "percentage": 3,
             "includes": [
-              "gas stations"
+              "gas stations",
+              "online shopping",
+              "dinning",
+              "travel",
+              "drug stores",
+              "home improvement/furnishings"
             ]
           },
           {
@@ -279,7 +368,7 @@
     },
     {
       "ccid": "9", 
-      "name": "Lowe's Credit Card",
+      "name": "Lowe's Advantage",
       "type": "Merchant",
       "merchant": "Lowe's",
       "bank": "Synchrony Financial",
@@ -288,7 +377,7 @@
       "foreign-transaction-fee": "3%",
       "rewards": {
         "type": "Discount",
-        "url": "https://www.lowes.com/cd_Lowes+Consumer+Credit+Center_739786611_",
+        "url": "https://www.lowes.com/l/Credit.html",
         "offers": [
           {
             "percentage": 5,
@@ -308,19 +397,21 @@
       "bank": "Wells Fargo",
       "image": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card-290x150.png",
       "rewards": {
-        "type": "Cash Back",
+        "type": "Points",
         "url": "https://www.wellsfargo.com/credit-cards/propel",
         "offers": [
           {
             "percentage": 3,
             "includes": [
-              "gas stations"
-            ]
-          },
-          {
-            "percentage": 2,
-            "includes": [
-              "restaurants"
+              "gas stations",
+              "restaurants",
+              "rideshares",
+              "transit",
+              "flights",
+              "hotels",
+              "homestays",
+              "car rentals",
+              "popular streaming services"
             ]
           },
           {
@@ -341,36 +432,23 @@
         "url": "https://creditcards.chase.com/credit-cards/chase-freedom-unlimited",
         "offers": [
           {
+            "percentage": 5,
+            "includes": [
+              "travel"
+            ],
+            "online": true,
+            "using": "www.chase.com"
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "dinning",
+              "takeout",
+              "drug stores"
+            ]
+          },
+          {
             "percentage": 1.5
-          }
-        ]
-      }
-    },
-    { 
-      "ccid": "13", 
-      "name": "Chase AARP® Rewards",
-      "type": "Visa",
-      "merchant": "Chase",
-      "bank": "Chase",
-      "image": "https://creditcards.chase.com/K-Marketplace/images/cardart/aarp_card.png",
-      "rewards": {
-        "type": "Cash Back",
-        "url": "https://creditcards.chase.com/credit-cards/aarp",
-        "offers": [
-          {
-            "percentage": 3,
-            "includes": [
-              "gas stations"
-            ]
-          },
-          {
-            "percentage": 3,
-            "includes": [
-              "restaurants"
-            ]
-          },
-          {
-            "percentage": 1
           }
         ]
       }
@@ -388,72 +466,6 @@
         "offers": [
           {
             "percentage": 2
-          }
-        ]
-      }
-    },
-    { 
-      "ccid": "15", 
-      "name": "Discover it® Gas and Restaurant",
-      "type": "Discover",
-      "merchant": "Discover",
-      "bank": "Discover",
-      "image": "https://www.discover.com/credit-cards/images/student/best-student-credit-card-chrome.png",
-      "web": "https://www.discover.com/credit-cards/cash-back/chrome.html",
-      "rewards": {
-        "type": "Cash Back",
-        "url": "https://www.discover.com/credit-cards/cash-back/chrome.html",
-        "offers": [
-          {
-            "percentage": 2,
-            "limit": {
-              "amount": 1000,
-              "months": 3
-            },
-            "includes": [
-              "gas stations",
-              "restaurants"
-            ]
-          },
-          {
-            "percentage": 1
-          }
-        ]
-      }
-    },
-    { 
-      "ccid": "16", 
-      "name": "Discover NHL® Discover it®",
-      "type": "Discover",
-      "merchant": "Discover",
-      "bank": "Discover",
-      "image": "https://www.discover.com/credit-cards/images/nhl/Discover-it-nhl-card.png",
-      "web": "https://www.discover.com/credit-cards/cash-back/nhl-card.html",
-      "rewards": {
-        "type": "Cash Back",
-        "url": "https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html",
-        "offers": [
-          {
-            "percentage": 5,
-            "limit": {
-              "amount": 1500,
-              "months": 3
-            },
-            "start": "07/01/2020 GMT",
-            "end": "10/01/2020 GMT",
-            "includes": [
-              "restaurant",
-              "paypal"
-            ],
-            "excludes": [
-            ],
-            "activate": {
-              "start": "05/01/2019 GMT",
-              "end": "09/30/2019 GMT"
-            }
-          },
-          {
-            "percentage": 1
           }
         ]
       }
@@ -481,6 +493,23 @@
             }
           },
           {
+            "percentage": 6,
+            "includes": [
+              "streaming services"
+            ]
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "transit",
+              "taxies",
+              "rideshare",
+              "parking",
+              "trains",
+              "busses"
+            ]
+          },
+          {
             "percentage": 3,
             "includes": [
               "gas stations"
@@ -498,7 +527,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/savor-card-art.png",
+      "image": "https://ecm.capitalone.com/WCM/card/products/savor-card-art/tablet.png",
       "annual-fee": 0,
       "foreign-transaction-fee": 0,
       "rewards": {
@@ -506,15 +535,16 @@
         "url": "https://www.capitalone.com/credit-cards/premier-dining-rewards/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMMQC4S&PageName=Cash%20Back&ComponentName=suiteTable&ContentElement=10;Card%20Details&TargetPageName=%2Fcredit-cards%2Fpremier-dining-rewards&referer=https:%2F%2Fwww.capitalone.com%2Fcredit-cards%2Fcash-back",
         "offers": [
           {
-            "percentage": 3,
+            "percentage": 4,
             "includes": [
-              "restaurants"
+              "dinning",
+              "entertainment"
             ]
           },
           {
             "percentage": 2,
             "includes": [
-              "groceries"
+              "grocery stores"
             ]
           },
           {
@@ -529,7 +559,7 @@
       "type": "MasterCard",
       "merchant": "Capital One",
       "bank": "Capital One",
-      "image": "https://www.capitalone.com/assets/credit-cards/img/www-quicksilverone-mc-world-elite-full-generic-240x151.png",
+      "image": "https://ecm.capitalone.com/WCM/card/products/quicksilverone-card-art/tablet.png",
       "annual-fee": 39,
       "rewards": {
         "type": "Cash Back",
@@ -582,11 +612,7 @@
           {
             "percentage": 2,
             "includes": [
-              "groceries"
-            ],
-            "excludes": [
-              "superstore",
-              "warehouse club"
+              "grocery stores"
             ]
           },
           {
@@ -611,25 +637,33 @@
           {
             "percentage": 4,
             "includes": [
-              "gas station"
-            ]
+              "gas stations"
+            ],
+            "limit": {
+              "amount": 8000,
+              "months": 12
+            }
           },
           {
             "percentage": 3,
             "includes": [
               "restaurants",
               "fast food"
-            ]
+            ],
+            "limit": {
+              "amount": 8000,
+              "months": 12
+            }
           },
           {
             "percentage": 2,
             "includes": [
               "groceries"
             ],
-            "excludes": [
-              "superstore",
-              "warehouse club"
-            ]
+            "limit": {
+              "amount": 8000,
+              "months": 12
+            }
           },
           {
             "percentage": 1
