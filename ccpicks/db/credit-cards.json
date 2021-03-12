@@ -671,6 +671,152 @@
           }
         ]
       }
+    },
+    {
+      "ccid": "23", 
+      "name": "Blue Cash Preferred®",
+      "type": "American Express",
+      "merchant": "American Express",
+      "bank": "American Express",
+      "image": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-preferred.png",
+      "annual-fee": 95,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/?eep=25330&linknav=US-Acq-Shop-Consumer-PDP-CashMagnet-CardMember-click-filmstrip:blue-cash-preferred",
+        "offers": [
+          {
+            "percentage": 6,
+            "limit": {
+              "amount": 6000,
+              "months": 12
+            },
+            "includes": [
+              "supermarkets"
+            ]
+          },
+          {
+            "percentage": 6,
+            "includes": [
+              "streaming"
+            ]
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "gas stations",
+              "transit",
+              "taxies",
+              "rideshare",
+              "parking",
+              "tools",
+              "trains",
+              "buses"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "24", 
+      "name": "U.S. Bank Visa® Platinum Card",
+      "type": "Visa",
+      "merchant": "U.S. Bank",
+      "bank": "U.S. Bank",
+      "image": "https://www.usbank.com/dam/images/rps/large/cardArt_platinum--large-333x209.png",
+      "annual-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.usbank.com/credit-cards/visa-platinum-credit-card.html?ecid=PS_23156&ds_e=GOOGLE&ds_c=Platinum_US+Bank+Platinum+CC_Brand_Customer_ALL_ALL_NAT_OA&ds_a=Platinum_US+Bank+Platinum+CC_Brand_Customer_ALL_ALL_NAT&ds_k=us+bank+platinum+card&ds_kids=p34406555551&c3apidt=RPS-p34406555551&gclid=Cj0KCQiAv6yCBhCLARIsABqJTjZR-PzGl65Ft9c8Pe3wiiKArOTLJhXa4pxLQGDs4XtSirTUKDxGPVgaAiWoEALw_wcB&gclsrc=aw.ds",
+        "offers": [
+          {
+            "percentage": 0
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "25", 
+      "name": "B&H Financing",
+      "type": "B&H Photo Video",
+      "merchant": "B&H Photo Video",
+      "bank": "Synchrony",
+      "image": "https://www.bhphotovideo.com/images/BHFC/financing-card-on-angle-2x.png",
+      "annual-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.bhphotovideo.com/l/special-financing",
+        "offers": [
+          {
+            "percentage": 0
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "26", 
+      "name": "My Best Buy Visa®",
+      "type": "Visa",
+      "merchant": "Best Buy",
+      "bank": "Citi",
+      "image": "https://cdn.wallethub.com/common/product/images/creditcards/500/best-buy-credit-card-12151449c.jpg",
+      "annual-fee": 0,
+      "rewards": {
+        "type": "Reward Points",
+        "url": "https://www.bestbuy.com/site/financing-rewards/my-best-buy-visa/pcmcat748300389631.c?id=pcmcat748300389631",
+        "offers": [
+          {
+            "percentage": 5,
+            "includes": [
+              "best buy",
+              "bestbuy"
+            ]
+          },
+          {
+            "percentage": 6,
+            "includes": [
+              "streaming"
+            ]
+          },
+          {
+            "percentage": 3,
+            "includes": [
+              "gas stations"
+            ]
+          },
+          {
+            "percentage": 2,
+            "includes": [
+              "groceries",
+              "dining",
+              "takeouts"
+            ]
+          },
+          {
+            "percentage": 1
+          }
+        ]
+      }
+    },
+    {
+      "ccid": "27", 
+      "name": "Home Depot Consumer Card",
+      "type": "Home Depot",
+      "merchant": "Home Depot",
+      "bank": "Citi",
+      "image": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Consumer-Credit-Card-Angled.png",
+      "annual-fee": 0,
+      "rewards": {
+        "type": "Cash Back",
+        "url": "https://www.homedepot.com/c/Credit_Center#ConsumerCard",
+        "offers": [
+          {
+            "percentage": 0
+          }
+        ]
+      }
     }
   ]
 }
